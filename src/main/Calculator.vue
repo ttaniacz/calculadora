@@ -10,7 +10,7 @@
       <Button label="4" @onClick="addDigit"/>
       <Button label="5" @onClick="addDigit"/>
       <Button label="6" @onClick="addDigit"/>
-      <Button label="-" operation @onClick="setoperation"/>
+      <Button label="-" operation @onClick="setoperation" />
       <Button label="1" @onClick="addDigit"/>
       <Button label="2" @onClick="addDigit"/>
       <Button label="3" @onClick="addDigit"/>
