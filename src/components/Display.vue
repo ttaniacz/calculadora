@@ -15,6 +15,7 @@ export default {
 .display {
   grid-column: span 4;
   background-color: #0004;
+  beckground-color: purple;
 
   display: flex;
   justify-content: flex-end;
