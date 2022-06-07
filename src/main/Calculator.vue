@@ -99,8 +99,8 @@ export default {
 
 <style>
 .calculator {
-    height: 320px;
-    width: 235px;
+    height: 380px;
+    width: 400px;
     border-radius: 5px;
     overflow: hidden;
 
